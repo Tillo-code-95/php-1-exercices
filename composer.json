@@ -1,0 +1,13 @@
+{
+    "name": "tillodmx/php-1-exercices",
+    "authors": [
+        {
+            "name": "tillo-code",
+            "email": "tillorr10@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
